@@ -1,28 +1,32 @@
-🐞 Bug Report
-📌 Title:
+# 🐞 Bug Report
+
+## 📌 Title
 Login error message could be improved
 
-📝 Description:
-The system shows an error message when entering an incorrect password, but it is not very user-friendly.
+## 📝 Description
+The system displays an error message when entering an incorrect password, but the message is not user-friendly and lacks clarity.
 
-🔁 Steps to Reproduce:
- 1 Open login page
- 2 Enter username: student
- 3 Enter wrong password
- 4 Click Submit
+## 🔁 Steps to Reproduce
+1. Open login page  
+2. Enter username: student  
+3. Enter incorrect password  
+4. Click Submit  
 
-❌ Actual Result:
+## ❌ Actual Result
 "Your password is invalid!"
 
-✅ Expected Result:
+## ✅ Expected Result
 "Incorrect password. Please try again."
 
-📊 Severity:
+## 📊 Severity
 Low
 
-🌐 Environment:
- • Browser: Chrome
- • OS: Windows
+## ⚡️ Priority
+Medium
 
-📸 Screenshot:
-invalid password.png
+## 🌐 Environment
+- Browser: Chrome  
+- OS: Windows  
+
+## 📸 Screenshot
+![Invalid Password](invalid password.png)
