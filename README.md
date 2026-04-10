@@ -21,13 +21,13 @@ This project demonstrates manual testing of a login system by designing and exec
 ## 📸 Screenshots
 
 ### Login Page
-Login Page
+![Login Page](login page.png)
 
 ### Successful Login
-Success
+![Success](login success.png)
 
 ### Invalid Password
-Error Password
+![Error Password](invalid password.png)
 
 ### Dashboard After Login
-Dashboard
+![Dashboard](dashboard.png)
