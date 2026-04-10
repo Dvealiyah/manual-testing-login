@@ -28,6 +28,3 @@ This project demonstrates manual testing of a login system by designing and exec
 
 ### Invalid Password
 ![Error Password](invalid password.png)
-
-### Dashboard After Login
-![Dashboard](dashboard.png)
