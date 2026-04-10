@@ -1,7 +1,7 @@
 # Manual Testing Project – Login System
 
 ## 📌 Overview
-This project demonstrates manual testing of a login system by designing and executing test cases.
+This project demonstrates manual testing of a login system by designing and executing test cases and validating different user scenarios.
 
 ## 🧪 Test Scenarios
 - Valid login  
@@ -16,6 +16,18 @@ This project demonstrates manual testing of a login system by designing and exec
 ## 📊 Results
 - Executed multiple test cases  
 - Verified system behavior  
-- Identified validation and error handling  
+- Identified validation and error handling issues  
 
 ## 📸 Screenshots
+
+### Login Page
+Login Page
+
+### Successful Login
+Success
+
+### Invalid Password
+Error Password
+
+### Dashboard After Login
+Dashboard
